@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/afro-house-inspired-percussion-bass-simple-synth-preview.mp3",
+  "preview_sha256": "0b4c72a73358427c3d49bd530c84c592c0009fec486ba39675844a9c8f3d964f",
+  "source_midi_path": "midi/apb01-clay-pulse/apb01-clay-pulse-combined.mid",
+  "source_midi_sha256": "20bc3d46c07f4fe5ad149ab16df4138ef2744a057b13c26aa24be6a281e2bc4f",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "apb01",
+    "start_seconds": 0,
+    "end_seconds": 64.0
+  },
+  "measurement": {
+    "sample_peak": 0.139659,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

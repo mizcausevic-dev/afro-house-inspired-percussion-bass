@@ -1,0 +1,3 @@
+DRAFT: Afro House-Inspired Percussion and Bass Studies is a four-study original MIDI release at 120 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 163 characters using Python len

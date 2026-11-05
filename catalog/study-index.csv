@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+apb01,Clay Pulse,pack-local equal-tempered pitch collection,A,120,4/4,480,32,61440,midi/apb01-clay-pulse/apb01-clay-pulse-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+apb02,Dark Timber,pack-local equal-tempered pitch collection,C,120,4/4,480,32,61440,midi/apb02-dark-timber/apb02-dark-timber-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+apb03,Warm Circle,pack-local equal-tempered pitch collection,D#,120,4/4,480,32,61440,midi/apb03-warm-circle/apb03-warm-circle-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+apb04,Low Return,pack-local equal-tempered pitch collection,A#,120,4/4,480,32,61440,midi/apb04-low-return/apb04-low-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

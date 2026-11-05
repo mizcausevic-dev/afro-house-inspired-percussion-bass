@@ -1,0 +1,26 @@
+{
+  "title": "Afro House-Inspired Percussion and Bass",
+  "study": "apb01",
+  "bpm": 120,
+  "source_audio": "preview/afro-house-inspired-percussion-bass-simple-synth-preview.mp3",
+  "source_audio_sha256": "0b4c72a73358427c3d49bd530c84c592c0009fec486ba39675844a9c8f3d964f",
+  "source_midi": "midi/apb01-clay-pulse/apb01-clay-pulse-combined.mid",
+  "source_midi_sha256": "20bc3d46c07f4fe5ad149ab16df4138ef2744a057b13c26aa24be6a281e2bc4f",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "cd3027948b0f693416cf14ba4d6670111c511331796ffa1d6057f71ea33752a5",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "71cf8ae07acba993c3189921447fe6b18f911405546004d7f610d194ed3f10c2",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "eac405f76b45f581136f7bc32c15e2ec4854d91f12d19ff397a84c74d511b7c0",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
