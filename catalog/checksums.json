@@ -54,7 +54,7 @@
     {
       "path": "catalog/clip-index.csv",
       "bytes": 1948,
-      "sha256": "33ef5bee38b45ac0b5b509570578d6a095213138cf42cdef6b3a3d0ad74ab1d1"
+      "sha256": "119bfe8cc8184329139094b7a5ec8a7e0c50c36e67a55bce07a7b1ad0613176f"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -113,83 +113,83 @@
     },
     {
       "path": "clips/apb01-bass-hook-01.mid",
-      "bytes": 183,
-      "sha256": "c46e6278a48c460f0c5e1f7a97ce6f443fa513b585f5450df0297db8d746a6f5"
+      "bytes": 199,
+      "sha256": "09355fb3570a489dac5b5d84b52941ac6f6f94ef027a6b46274b77dceb95c5db"
     },
     {
       "path": "clips/apb01-bass-hook-02.mid",
-      "bytes": 183,
-      "sha256": "6961ecb056e2c6e00d8d2a71010cc3c559e80dfe407d75e0aa298573c13c1c2f"
+      "bytes": 199,
+      "sha256": "59a24bfb1b931f61b758aa552c60544681a6470710c2001ac5670ea7e8043ff1"
     },
     {
       "path": "clips/apb01-bass-hook-03.mid",
-      "bytes": 183,
-      "sha256": "42c17cecf1785d51458fb352176e2462e94d791dbca2526fa7cc4a8ce4b3ef41"
+      "bytes": 199,
+      "sha256": "d77acf371ce2f60077580a2f67bf02576148cd480c5fac6c036265b578e05277"
     },
     {
       "path": "clips/apb01-bass-hook-04.mid",
-      "bytes": 183,
-      "sha256": "073f17fe4def9f13b82927593cd6ae299b29b1a63fdc2d411e1a0b7ba9c589f1"
+      "bytes": 200,
+      "sha256": "ef84e7e9b33a7e36c120123ccbff672b2c3fb717d52b3e9d8a9263c180b937a0"
     },
     {
       "path": "clips/apb02-bass-hook-01.mid",
-      "bytes": 173,
-      "sha256": "ccfc529d536387db7e70cb548ff6fa73d90c40b12ad3a387f2c9be05a2c492e2"
+      "bytes": 199,
+      "sha256": "c5f8e77143d321ef8eceda28aadc1465ebe9a53b76dcd4c55b8b6859d1c12bb1"
     },
     {
       "path": "clips/apb02-bass-hook-02.mid",
-      "bytes": 173,
-      "sha256": "9777d748ed3ad9bb8a556ed6b6a42518a7b9eef9f8307ca1d01453986da60dac"
+      "bytes": 199,
+      "sha256": "8f66a3ccf6c25db0236067480b514110af997f7afb7c09d149fefdcb20b7e605"
     },
     {
       "path": "clips/apb02-bass-hook-03.mid",
-      "bytes": 173,
-      "sha256": "266c804ad884535c32b413510a099828d8c038f0d62dce3b0e2e2709ea9d523b"
+      "bytes": 199,
+      "sha256": "68b8d6f2a44d9ef27d14b919227304f6a33b50ee1fb48d1ac5a7a0419e8451ae"
     },
     {
       "path": "clips/apb02-bass-hook-04.mid",
-      "bytes": 173,
-      "sha256": "df6c2e5b4835b4eb8f656537c97a9284aa07d2f2d74888bb134a12f5b65c13a4"
+      "bytes": 200,
+      "sha256": "9bd10a10eb305dec6f673589b2fbe33f5ec4bb4341f158b8874c895d2e137d39"
     },
     {
       "path": "clips/apb03-bass-hook-01.mid",
-      "bytes": 173,
-      "sha256": "4102ff92fce4988d56f57049d14e19868429209ee9971e7212d38e96fc882a66"
+      "bytes": 199,
+      "sha256": "10dbb42edb822321a456b96281c893d8f25aa581d7b33c407fbb1eefa97f8675"
     },
     {
       "path": "clips/apb03-bass-hook-02.mid",
-      "bytes": 173,
-      "sha256": "7e8844fa0f3c015f8c533f71461dce9f6992a26563ff57599bc80ae07fe7d53d"
+      "bytes": 199,
+      "sha256": "23528545fe2fb0d1a04d635a924bb133d1d6ad3c2fa67d47984e187f190a2082"
     },
     {
       "path": "clips/apb03-bass-hook-03.mid",
-      "bytes": 173,
-      "sha256": "41f66aaf96cf9064a47efb632490a2b54f505ef0ddf3978aa7458ac7537e87cb"
+      "bytes": 199,
+      "sha256": "e3e4c3a4b04a04791548c7299e18852c14e871d076f8d81904b5066e4b6a40c0"
     },
     {
       "path": "clips/apb03-bass-hook-04.mid",
-      "bytes": 173,
-      "sha256": "c854cb3622e87049350350251b96c042a3014644360ccb8853b541e07dc1eb16"
+      "bytes": 200,
+      "sha256": "00e47a6f61ca120616729533b34e1cc34f6604687907a130a6e73a3853621d7e"
     },
     {
       "path": "clips/apb04-bass-hook-01.mid",
-      "bytes": 173,
-      "sha256": "f0c22042560a75c52f390cb976f61bb53c2ce21af131b91ae5c2d5897355dfbe"
+      "bytes": 199,
+      "sha256": "a1b66984676fa5578fa6e3d72f37d2b1567b1be47640e11a1f05da9ace048074"
     },
     {
       "path": "clips/apb04-bass-hook-02.mid",
-      "bytes": 173,
-      "sha256": "b3a72ef51a77d1140797b3625291419b1060aa84026a8c212c22e793cb12d25c"
+      "bytes": 199,
+      "sha256": "df01ea8123c75212f18d8ec623b2cd3ff3598e90b7397b2a2872792c99bfd8f0"
     },
     {
       "path": "clips/apb04-bass-hook-03.mid",
-      "bytes": 173,
-      "sha256": "167ffb7a2fbcf80ac8f9e499ad1fd5b7352a58e720131ac73c813a65baf52653"
+      "bytes": 199,
+      "sha256": "b56cb49988778a45caed428c88cffb22a6c68e68fd3f47e195ca1ec5e06b7937"
     },
     {
       "path": "clips/apb04-bass-hook-04.mid",
-      "bytes": 173,
-      "sha256": "0f1d86d238649899a27393a6448879b9d2ca705b3eb114a2ac7929087401f02d"
+      "bytes": 200,
+      "sha256": "a5b32faaf5700cf64b77ad4a94a626571c7c6a15eb05dbfe1a0a645ea1e3ce41"
     },
     {
       "path": "delivery.md",
@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/afro-house-inspired-percussion-bass-midi.zip",
-      "bytes": 28795,
-      "sha256": "39c818081c0ea1c3271028c4f3a4a4f4134d50f3cd073bb206ecf0048214dc04"
+      "bytes": 30900,
+      "sha256": "abac7d34789299c2a462fd1ce60b7223522d74f60829aa4f5f2d0de9c193e8db"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9661,
-      "sha256": "08460e06e99c39a5bcd8dbf123d2a2e8523631dc9f002020ff0cb3b63470d4b3"
+      "bytes": 9904,
+      "sha256": "fc2d8600d2edd8eb71ffdffb9f01d754fe139d5e86e7301c82f2f979729a2560"
     },
     {
       "path": "midi/apb01-clay-pulse/apb01-clay-pulse-combined.mid",
@@ -388,8 +388,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3954,
-      "sha256": "a197d638f45d6e6a9f0dbd90a6d34a053af9064bbf3952426d42a1f95b272107"
+      "bytes": 4113,
+      "sha256": "41267ebc22cc5bdee8c723858efc2b2162aa542c7b31ae32116452a6cdf676bc"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 330,
+      "sha256": "b84a0d3a8d71335d54f45af43fef07b9e4563bd2917faab43119ca84c0524850"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -433,8 +438,8 @@
     },
     {
       "path": "tools/produce_clips.py",
-      "bytes": 7978,
-      "sha256": "6bdc87130ed01f9147b4557e1dde8c5f1bb3b3247b0b43677d9d9272b88fe018"
+      "bytes": 8769,
+      "sha256": "e0402e1f9475bee05827e16706bba2d815ae66ed18d52c26ce770e211d66506d"
     },
     {
       "path": "tools/render_motion_preview.py",
