@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/afro-house-inspired-percussion-bass-midi.zip",
-      "bytes": 30900,
-      "sha256": "abac7d34789299c2a462fd1ce60b7223522d74f60829aa4f5f2d0de9c193e8db"
+      "bytes": 31887,
+      "sha256": "a4468f4502eb5124d632e62db534026244322c4283c5c652671382a5641b1add"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9904,
-      "sha256": "fc2d8600d2edd8eb71ffdffb9f01d754fe139d5e86e7301c82f2f979729a2560"
+      "bytes": 10094,
+      "sha256": "7b75444ce90445317cb3260d4129b6457d917e08e2275df300b4a2cd89dbcd38"
     },
     {
       "path": "midi/apb01-clay-pulse/apb01-clay-pulse-combined.mid",
@@ -377,6 +377,11 @@
       "sha256": "b3fb1a2ffa9c98365d995a6d6cb3f21f2bcbb11393c1f4179b705685400211b7"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/afro-house-inspired-percussion-bass-simple-synth-preview.mp3",
       "bytes": 1549836,
       "sha256": "0b4c72a73358427c3d49bd530c84c592c0009fec486ba39675844a9c8f3d964f"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4113,
-      "sha256": "41267ebc22cc5bdee8c723858efc2b2162aa542c7b31ae32116452a6cdf676bc"
+      "bytes": 4228,
+      "sha256": "40aa1daa9dfccf51b2ff0bbde4450fcf7922e65cc91b1f8613798e479059c854"
     },
     {
       "path": "REVISION.md",
